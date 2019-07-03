@@ -1,0 +1,28 @@
+{
+  "name": "tailwindcss-prefers-color-scheme",
+  "version": "0.1.0",
+  "description": "A Tailwind CSS plugin for adding variants using the prefers-color-scheme media feature.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/avdgaag/tailwindcss-prefers-color-scheme.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "Arjan van der Gaag <arjan@arjanvandergaag.nl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avdgaag/tailwindcss-prefers-color-scheme/issues"
+  },
+  "homepage": "https://github.com/avdgaag/tailwindcss-prefers-color-scheme#readme",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "jest-matcher-css": "^1.1.0",
+    "postcss": "^7.0.17",
+    "tailwindcss": "^1.0.4"
+  }
+}
